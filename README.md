@@ -1,6 +1,6 @@
 # Httpclient
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 13.3.6.
+This project uses services in Angular to connect Backend with Frontend.This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 13.3.6.
 
 ## Development server
 
@@ -25,3 +25,5 @@ Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To u
 ## Further help
 
 To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
+<img width="224" alt="Screenshot 2022-06-20 at 4 59 55 PM" src="https://user-images.githubusercontent.com/87407097/174782228-502eecf5-2b5e-46fd-8932-7a96d7db927d.png">
+<img width="1440" alt="Screenshot 2022-06-20 at 4 44 23 PM" src="https://user-images.githubusercontent.com/87407097/174782246-e3e29735-cc11-445e-b20f-bc5727cfc5d6.png">
